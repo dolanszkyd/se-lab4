@@ -1,0 +1,4 @@
+#single, primary last, secondary empty, primaryben van
+GT4500,2,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
