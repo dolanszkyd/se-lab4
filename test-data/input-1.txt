@@ -1,0 +1,4 @@
+#szimpla lövésnél váltogatva lő, első után második
+GT4500,1,0,1,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE

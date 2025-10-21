@@ -1,0 +1,3 @@
+#tároló hiba esetén nem lő
+GT4500,1,1,1,1
+TORPEDO,SINGLE
