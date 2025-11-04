@@ -1,0 +1,4 @@
+#nem volt még lövés, az elsőből lő
+GT4500,1,0,1,1
+TORPEDO,SINGLE
+TORPEDO,SINGLE

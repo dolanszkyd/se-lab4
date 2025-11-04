@@ -1,0 +1,4 @@
+#szimpla lövés, első után, második üres, elsőből lő
+GT4500,2,0,0,1
+TORPEDO,SINGLE
+TORPEDO,SINGLE
